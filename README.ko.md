@@ -12,32 +12,10 @@
 - :mailbox_with_mail:  [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
 - :page_with_curl: 블로그(Korean) [https://j2doll.tistory.com](https://j2doll.tistory.com)
 
-## 상업용 프로젝트
-
-### 국방 무기체계 프로젝트
-
-#### 전술 데이터링크 체계
-![](https://j2doll.github.io/image/tdl2.jpg)
-- Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
-
-#### 해군 상륙함 지휘지원체계
-![](https://j2doll.github.io/image/lpx.jpg)
-- Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
-
-### 기타 프로젝트
-- 건설 컴포넌트(CAD)를 이용한 진동 기초 프로젝트 : C++, OpenGL, Visual Studio, Codejock Lib
-- 통신회사의 전보 통합 프로젝트 : C++, Visual Studio, Tuxedo, CCT Lib
-- 멀티미디어 DRM(Digital Right Management) 체계 : C++, Directshow(필터), 암호화 알고리즘
-- 구형 MSN 메신저 암호화 서버 : 프록시 네트워크 프로그래밍, C++ Builer, MSNP(구형 MSN 프로토콜)
-- Exif(사진 자료) 뷰어 : C++, ActiveX(COM), Visual Studio
-- PDB(단백질 데이터베이스) 뷰어 (프로토타입 프로젝트) : C++, Visual Studio, OpenGL
-
-## 공개 프로젝트
+## 오픈소스 프로젝트 
 
 ### [QtExcel](https://github.com/QtExcel)
-![](https://avatars3.githubusercontent.com/u/46348934?s=200&v=4)
 - QtExcel는 Qt용 엑셀(xlsx) 라이브러리들의 모임입니다. 
-- 저는 QtExcel의 관리자 입니다.
 
 #### [QXlsx](https://github.com/QtExcel/QXlsx)
 - QXlsx는 엑셀 파일(*.xlsx)을 읽고 쓰는 라이브러리입니다.
@@ -45,21 +23,14 @@
 - QXlsx는 개발언어로 C++를 사용합니다. (Qt 사용)
 - QXlsx는 정적 또는 동적 라이브러리를 사용하지 않아도 되도록 제작되었습니다.
 
-![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/QXlsx-Desktop.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/android.jpg) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/copycat.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/webserver.png) 
-![](https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/testexcel.png)
-
 #### [Qxlnt](https://github.com/QtExcel/Qxlnt)
 - Qxlnt는 xlnt가 Qt에서 사용될 수있게 해주는 도우미 프로젝트입니다.
 - xlnt는 xlsx Excel 파일을 사용하기에 훌륭한 C++ 라이브러리입니다. :+1:
 - xlnt를 Qt에서 사용하기 쉬운 방법을 찾고 있었습니다. 물론 cmake는 Qt와 호환되지만 사용하기가 쉽지 않습니다. 그래서 Qxlnt를 만들었습니다.
 
-![](https://github.com/QtExcel/Qxlnt/raw/master/markdown-data/Concept-QXlnt.jpg)
-
 #### [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter)
 - Qlibxlsxwriter는 libxlsxwriter를 Qt에서 사용할 수 있는 도우미 프로젝트입니다.
 - libxlsxwriter는 Excel XLSX 파일을 만들기위한 C 라이브러리 입니다.
-
-![](https://github.com/QtExcel/Qlibxlsxwriter/raw/master/markdown.data/logo.png)
 
 #### [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter)
 - Use SimpleXlsxWriter in Qt.
@@ -70,8 +41,6 @@
 - 향상된 디바이스와 기능으로 포틍을 수행하였습니다.
 - 표준 출력(console), 로그 파일, Udp 소켓이 지원됩니다.
 - 다른 종류의 디바이스로 확장 예정입니다. (관계형 데이터베이스, 시리얼, DDS, 블루투스 등)
-
-![](https://github.com/j2doll/QSLogLib/raw/master/markdown.data/qsloglib1.jpg)
 
 ### [QTelnetServer](https://github.com/j2doll/QTelnetServer)
 - 텔넷 서버
@@ -84,12 +53,9 @@
 ### [wireshark-remote-command-win](https://github.com/j2doll/wireshark-remote-command-win)
 - 와이어샤크를 이용하여 윈도우즈에서 원격으로 패킷 캡춰
 
-![](https://github.com/j2doll/wireshark-remote-command-win/raw/master/markdown.data/concept.jpg)
-
 ### [대한민국 인구](https://github.com/j2doll/Population-of-South-Korea)
 - 대한민국의 인구를 그래프로 보여주는 싸이트입니다.
 - [https://j2doll.github.io/Population-of-South-Korea/](https://j2doll.github.io/Population-of-South-Korea/)
-- ![](https://j2doll.github.io/image/pop-south-kor.png)
 
 ### [json-downloader](https://github.com/j2doll/json-downloader)
 - json 정보 기반 파일 다운로더 (윈도우즈 콘솔용)
@@ -114,6 +80,26 @@
 - [CStdString](https://github.com/j2doll/CStdString)는 윈도우즈 컴파일러를 지원하는 문자열 클래스입니다.(Visual C++, Borlan C++ 등) gcc(g++)는 지원하지 않습니다. 원본 소스코드는  [codeproject](https://www.codeproject.com/Articles/1146/CString-clone-Using-Standard-C)가 출처입니다. 현재 일부 코드는 작동되지 않는 부분도 있습니다.
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : 일부 코드가 작동되지 않음. 이 예제보다는 깃허브에 있는 QML 예제를 추전합니다.
 - [Qt에서 인-메모리 SQLITE의 성능 테스트](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) 이 프로젝트를 포크하여 여러분의 하드웨어/OS에서 성능을 테스트하실 수 있습니다.
+
+## 상업용 프로젝트
+
+### 국방 무기체계 프로젝트
+
+#### 전술 데이터링크 체계
+![](https://j2doll.github.io/image/tdl2.jpg)
+- Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
+
+#### 해군 상륙함 지휘지원체계
+![](https://j2doll.github.io/image/lpx.jpg)
+- Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
+
+### 기타 프로젝트
+- 건설 컴포넌트(CAD)를 이용한 진동 기초 프로젝트 : C++, OpenGL, Visual Studio, Codejock Lib
+- 통신회사의 전보 통합 프로젝트 : C++, Visual Studio, Tuxedo, CCT Lib
+- 멀티미디어 DRM(Digital Right Management) 체계 : C++, Directshow(필터), 암호화 알고리즘
+- 구형 MSN 메신저 암호화 서버 : 프록시 네트워크 프로그래밍, C++ Builer, MSNP(구형 MSN 프로토콜)
+- Exif(사진 자료) 뷰어 : C++, ActiveX(COM), Visual Studio
+- PDB(단백질 데이터베이스) 뷰어 (프로토타입 프로젝트) : C++, Visual Studio, OpenGL
 
 ### 한글화 작업
 
