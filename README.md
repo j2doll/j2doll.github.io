@@ -14,32 +14,10 @@
 - :page_with_curl: Blog(Korean) [https://j2doll.tistory.com](https://j2doll.tistory.com)
 - My native language is not English and my English is not fluent. Please, use easy English. :-)
 
-## Commercial Projects
-
-### Defense Weapon System Project
-
-#### Tactical Data Link System
-![](image/tdl2.jpg)
-- Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
-
-#### Naval Landing Ship Command & Control Support System
-![](https://j2doll.github.io/image/lpx.jpg)
-- Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
-
-### Other projects
-- Vibration foundation project using construction software component(CAD) : C++, OpenGL, Visual Studio, Codejock Lib
-- Integrated business of telegram service of Korean major telegram company : C++, Visual Studio, Tuxedo, CCT Lib
-- Multimedia DRM(Digital Right Management) System : C++, Directshow(Filter), Cypher Algorithm
-- Old MSN Messenger Encryption Server : Proxy network programming, C++ Builer, MSNP(MSN Protocol, old protocol)
-- Exif(picture data) Viewer : C++, ActiveX(COM), Visual Studio
-- PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
-
 ## Open Source Projects
 
 ### [QtExcel](https://github.com/QtExcel)
-![](https://avatars3.githubusercontent.com/u/46348934?s=200&v=4)
 - QtExcel is a organization of excel(xlsx) libraries in Qt.
-- I am admin of QtExcel.
 
 #### [QXlsx](https://github.com/QtExcel/QXlsx)
 - QXlsx is excel file(*.xlsx) reader/writer library.
@@ -47,21 +25,14 @@
 - Development language of QXlsx is C++. (with Qt)
 - You don't need to use static library or dynamic shared object using QXlsx.
 
-![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/QXlsx-Desktop.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/android.jpg) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/copycat.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/webserver.png)
-![](https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/testexcel.png)
-
 #### [Qxlnt](https://github.com/QtExcel/Qxlnt)
 - Qxlnt is a helper project that allows xlnt to be used in Qt.
 - xlnt is a excellent C++ library for using xlsx Excel files. :+1:
 - I was looking for a way to make it easy to use in Qt. Of course, cmake is compatible with Qt, but it is not convenient to use. So I created Qxlnt.
 
-![](https://github.com/QtExcel/Qxlnt/raw/master/markdown-data/Concept-QXlnt.jpg)
-
 #### [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter)
 - Qlibxlsxwriter is a helper project that allows libxlsxwriter to be used in Qt.
 - libxlsxwriter is a C library for creating Excel XLSX files.
-
-![](https://github.com/QtExcel/Qlibxlsxwriter/raw/master/markdown.data/logo.png)
 
 #### [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter)
 - Use SimpleXlsxWriter in Qt.
@@ -115,6 +86,26 @@
 - [CStdString](https://github.com/j2doll/CStdString) is a string class for Windows compiler(Visual C++, Borlan C++, etc.) gcc(g++) is not supported. Original source code is come from [codeproject.](https://www.codeproject.com/Articles/1146/CString-clone-Using-Standard-C) Now some code not works.
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : Now some code not works. I suggest to use new QML sample of github.
 - [Benchmark performance of in-memory SQLITE on Qt](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) You can fork current project to you, then test your own hardware, OS and Qt etc.
+
+## Commercial Projects
+
+### Defense Weapon System Project
+
+#### Tactical Data Link System
+![](image/tdl2.jpg)
+- Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
+
+#### Naval Landing Ship Command & Control Support System
+![](image/lpx.jpg)
+- Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
+
+### Other projects
+- Vibration foundation project using construction software component(CAD) : C++, OpenGL, Visual Studio, Codejock Lib
+- Integrated business of telegram service of Korean major telegram company : C++, Visual Studio, Tuxedo, CCT Lib
+- Multimedia DRM(Digital Right Management) System : C++, Directshow(Filter), Cypher Algorithm
+- Old MSN Messenger Encryption Server : Proxy network programming, C++ Builer, MSNP(MSN Protocol, old protocol)
+- Exif(picture data) Viewer : C++, ActiveX(COM), Visual Studio
+- PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
 
 ## Freeware
 > My freeware is mostly made to Korean. I am going to translate in English someday.
