@@ -16,9 +16,6 @@
 
 ## Open Source Projects
 
-<details><summary>CLICK ME</summary>
-<p>
-
 ### [QtExcel](https://github.com/QtExcel)
 - QtExcel is a organization of excel(xlsx) libraries in Qt.
 
@@ -85,13 +82,7 @@
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : Now some code not works. I suggest to use new QML sample of github.
 - [Benchmark performance of in-memory SQLITE on Qt](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) You can fork current project to you, then test your own hardware, OS and Qt etc.
 
-</p>
-</details>
-
 ## Commercial Projects
-
-<details><summary>CLICK ME</summary>
-<p>
 
 ### Defense Weapon System Project
 
@@ -111,14 +102,8 @@
 - Exif(picture data) Viewer : C++, ActiveX(COM), Visual Studio
 - PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
 
-</p>
-</details>
-
 ## Freeware
 > My freeware is mostly made to Korean. I am going to translate in English someday.
-
-<details><summary>CLICK ME</summary>
-<p>
 
 - ConverT : It converts the time UTC, Local time, Epoch. (Korean local time is KST that is GMT+9h.) [Download](https://j2doll.github.io/files/ConverT.7z)
 - TC-1 : It converts the time from seconds to date and time. [Download](https://j2doll.github.io/files/TC-1.zip)
@@ -128,9 +113,6 @@
 - TinyTimeSync : NTP(SNTP) client program for Windows. [Download](https://j2doll.github.io/files/TinyTimeSyncNT.zip)
 - litococlock : It's a clock program that is made in LittleWitch(Japan). Translate menu language to English. [Download](https://j2doll.github.io/files/litoco.zip)
 - URLDownload : Translate menu language to Korean. Code from [codeproject](http://www.codeproject.com/KB/IP/urldownload.aspx). [Download](https://j2doll.github.io/files/URLDownload.zip)
-
-</p>
-</details>
 
 
 ## Test code from books
