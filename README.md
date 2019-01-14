@@ -1,37 +1,132 @@
-## Welcome to GitHub Pages
+# Welcome to github pages of j2doll (aka Jay two)
 
-You can use the [editor on GitHub](https://github.com/j2doll/j2doll.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> *Read this in other languages: [English](README.md), :kr: [한국어](README.ko.md)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who am I?
+- Hi! My alias name is j2doll. (aka Jay Two)
+	- My name is Korean and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two.
+- I'm a software programmer of South Korea. (South Korea is Republic of Korea.)
+- I have been programming in various languages and environments for a long time.
 
-### Markdown
+## Contact
+- :octocat: [https://github.com/j2doll](https://github.com/j2doll)
+- :mailbox_with_mail:  [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
+- :page_with_curl: Blog(Korean) [https://j2doll.tistory.com](https://j2doll.tistory.com)
+- My native language is not English and my English is not fluent. Please, use easy English. :-)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Commercial Projects
 
-```markdown
-Syntax highlighted code block
+### Defense Weapon System Project
 
-# Header 1
-## Header 2
-### Header 3
+#### Tactical Data Link System
+![](image/tdl2.jpg)
+- Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
 
-- Bulleted
-- List
+#### Naval Landing Ship Command & Control Support System
+![](https://j2doll.github.io/image/lpx.jpg)
+- Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
 
-1. Numbered
-2. List
+### Other projects
+- Vibration foundation project using construction software component(CAD) : C++, OpenGL, Visual Studio, Codejock Lib
+- Integrated business of telegram service of Korean major telegram company : C++, Visual Studio, Tuxedo, CCT Lib
+- Multimedia DRM(Digital Right Management) System : C++, Directshow(Filter), Cypher Algorithm
+- Old MSN Messenger Encryption Server : Proxy network programming, C++ Builer, MSNP(MSN Protocol, old protocol)
+- Exif(picture data) Viewer : C++, ActiveX(COM), Visual Studio
+- PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
 
-**Bold** and _Italic_ and `Code` text
+## Open Source Projects
 
-[Link](url) and ![Image](src)
-```
+### [QtExcel](https://github.com/QtExcel)
+![](https://avatars3.githubusercontent.com/u/46348934?s=200&v=4)
+- QtExcel is a organization of excel(xlsx) libraries in Qt.
+- I am admin of QtExcel.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [QXlsx](https://github.com/QtExcel/QXlsx)
+- QXlsx is excel file(*.xlsx) reader/writer library.
+- Because QtXlsx is no longer supported(2014), I created a new project that is based on QtXlsx. (2017-)
+- Development language of QXlsx is C++. (with Qt)
+- You don't need to use static library or dynamic shared object using QXlsx.
 
-### Jekyll Themes
+![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/QXlsx-Desktop.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/android.jpg) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/copycat.png) ![](https://github.com/QtExcel/QXlsx/raw/master/markdown.data/webserver.png)
+![](https://raw.githubusercontent.com/QtExcel/QXlsx/master/markdown.data/testexcel.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j2doll/j2doll.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Qxlnt](https://github.com/QtExcel/Qxlnt)
+- Qxlnt is a helper project that allows xlnt to be used in Qt.
+- xlnt is a excellent C++ library for using xlsx Excel files. :+1:
+- I was looking for a way to make it easy to use in Qt. Of course, cmake is compatible with Qt, but it is not convenient to use. So I created Qxlnt.
 
-### Support or Contact
+![](https://github.com/QtExcel/Qxlnt/raw/master/markdown-data/Concept-QXlnt.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter)
+- Qlibxlsxwriter is a helper project that allows libxlsxwriter to be used in Qt.
+- libxlsxwriter is a C library for creating Excel XLSX files.
+
+![](https://github.com/QtExcel/Qlibxlsxwriter/raw/master/markdown.data/logo.png)
+
+#### [QSimpleXlsxWriter](https://github.com/QtExcel/QSimpleXlsxWriter)
+- Use SimpleXlsxWriter in Qt.
+- SimpleXlsxWriter is C++ library for creating XLSX files for MS Excel 2007 and above.
+
+### [QSLogLib](https://github.com/j2doll/QSLogLib)
+- Log library for C++/Qt based on SLogLib.
+- It is ported to Qt with improved devices and function.
+- Standard output(console), Log File, UDP socket is supported.
+- I will expand device to other types. (such as RDBMS, Serial, DDS, Bluetooth, etc)
+
+![](https://github.com/j2doll/QSLogLib/raw/master/markdown.data/qsloglib1.jpg)
+
+### [QTelnetServer](https://github.com/j2doll/QTelnetServer) 
+- Telnet server 
+- Seperated logic class (No elevation of account permissions required)
+
+### [QPing](https://github.com/j2doll/QPing)
+- Ping class that is not using raw socket api
+
+### [wireshark-remote-command-win](https://github.com/j2doll/wireshark-remote-command-win)
+- Capturing remote packet using Wireshark on Windows
+
+![](https://github.com/j2doll/wireshark-remote-command-win/raw/master/markdown.data/concept.jpg)
+
+### [Population of South Korea](https://github.com/j2doll/Population-of-South-Korea)
+- It is a site that graphs the population of South Korea(Republic of Korea).
+- [https://j2doll.github.io/Population-of-South-Korea/](https://j2doll.github.io/Population-of-South-Korea/)
+- ![](https://j2doll.github.io/image/pop-south-kor.png)
+
+### [json-downloader](https://github.com/j2doll/json-downloader)
+- File Downloader for Windows Console(Terminal) using json download data.
+
+### [Responsive QML HMIs with Scaling](https://github.com/j2doll/responsive-qml-hmis-with-scaling)
+- Copyright (C) 2015 Burkhard Stubert, Embedded Use (DBA), Germany All rights reserved.
+- The HMIs of in-vehicle infotainment systems, TVs, phones and many other systems must adapt to different screen resolutions and formats. This adaptation should happen with as little duplicate effort as possible. The simplest way of doing this for QML HMIs is to scale the values of all x, y, width, height, margin and border properties in proportion to a reference resolution. Based on the HMI of a music player, I’ll show you how to do this by changing only the screen width and height.
+
+## [crl.Qt](https://github.com/j2doll/crl.Qt)
+- Concurrency Runtime Library for Telegram Desktop
+- This project uses Qt 5. (2018)
+
+## [jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
+- Set Qt project to [jcon](https://github.com/joncol/jcon-cpp) project
+	- JCON-CPP is a portable C++ JSON RPC 2.0 library that depends on Qt.
+- This project uses Qt 5. (2018)
+
+### Lazy Projects
+- [test-ccspriterx](https://github.com/j2doll/test-ccspriterx) is test code for CCSpriterX & Brash Monkey Spriter SCML.
+- [Implicit sharing iterator problem of Qt](https://gist.github.com/j2doll/bb11c0c8d3d0ddd4066df151fb2dc12a) is a unique sample of Qt. It describe implicit sharing of Qt.
+- [lmc-clone](https://github.com/j2doll/lmc-clone) is a lan messenger, instant messaging client. It based on lmc of sourceforge.
+- [CStdString](https://github.com/j2doll/CStdString) is a string class for Windows compiler(Visual C++, Borlan C++, etc.) gcc(g++) is not supported. Original source code is come from [codeproject.](https://www.codeproject.com/Articles/1146/CString-clone-Using-Standard-C) Now some code not works.
+- [Box2D Lite](https://github.com/j2doll/qbox2dl) : Now some code not works. I suggest to use new QML sample of github.
+- [Benchmark performance of in-memory SQLITE on Qt](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) You can fork current project to you, then test your own hardware, OS and Qt etc.
+
+## Freeware
+> My freeware is mostly made to Korean. I am going to translate in English someday.
+
+- ConverT : It converts the time UTC, Local time, Epoch. (Korean local time is KST that is GMT+9h.) [Download](https://j2doll.github.io/files/ConverT.7z)
+- TC-1 : It converts the time from seconds to date and time. [Download](https://j2doll.github.io/files/TC-1.zip)
+- DisplayVersionOnDesktop : display current Windows detailed version string on desktop. [Download](https://j2doll.github.io/files/DisplayVersionOnDesktop.zip)
+- ConvertU : convert plain text to UTF-8 & URl-encoded string. Very simple! [Download](https://j2doll.github.io/files/ConvertU.zip)
+- IEBNTracker : A program that allows you to preview and test how to work with the Web using Internet Explorer. It traces BeforeNavigate envent and shows RL, PostData, Headers, TargerFrame. [Download](https://j2doll.github.io/files/IEBNTracker.zip)
+- TinyTimeSync : NTP(SNTP) client program for Windows. [Download](https://j2doll.github.io/files/TinyTimeSyncNT.zip)
+- litococlock : It's a clock program that is made in LittleWitch(Japan). Translate menu language to English. [Download](https://j2doll.github.io/files/litoco.zip)
+- URLDownload : Translate menu language to Korean. Code from [codeproject](http://www.codeproject.com/KB/IP/urldownload.aspx). [Download](https://j2doll.github.io/files/URLDownload.zip)
+
+## Test code from books
+- See [gitlab](https://gitlab.com/users/j2doll/projects) repo.
