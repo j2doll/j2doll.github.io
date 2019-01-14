@@ -16,6 +16,9 @@
 
 ## Open Source Projects
 
+<details><summary>CLICK ME</summary>
+<p>
+
 ### [QtExcel](https://github.com/QtExcel)
 - QtExcel is a organization of excel(xlsx) libraries in Qt.
 
@@ -27,7 +30,7 @@
 
 #### [Qxlnt](https://github.com/QtExcel/Qxlnt)
 - Qxlnt is a helper project that allows xlnt to be used in Qt.
-- xlnt is a excellent C++ library for using xlsx Excel files. :+1:
+- xlnt is a excellent C++ library for using xlsx Excel files.
 - I was looking for a way to make it easy to use in Qt. Of course, cmake is compatible with Qt, but it is not convenient to use. So I created Qxlnt.
 
 #### [Qlibxlsxwriter](https://github.com/QtExcel/Qlibxlsxwriter)
@@ -44,8 +47,6 @@
 - Standard output(console), Log File, UDP socket is supported.
 - I will expand device to other types. (such as RDBMS, Serial, DDS, Bluetooth, etc)
 
-![](https://github.com/j2doll/QSLogLib/raw/master/markdown.data/qsloglib1.jpg)
-
 ### [QTelnetServer](https://github.com/j2doll/QTelnetServer) 
 - Telnet server 
 - Seperated logic class (No elevation of account permissions required)
@@ -56,12 +57,9 @@
 ### [wireshark-remote-command-win](https://github.com/j2doll/wireshark-remote-command-win)
 - Capturing remote packet using Wireshark on Windows
 
-![](https://github.com/j2doll/wireshark-remote-command-win/raw/master/markdown.data/concept.jpg)
-
 ### [Population of South Korea](https://github.com/j2doll/Population-of-South-Korea)
 - It is a site that graphs the population of South Korea(Republic of Korea).
 - [https://j2doll.github.io/Population-of-South-Korea/](https://j2doll.github.io/Population-of-South-Korea/)
-- ![](https://j2doll.github.io/image/pop-south-kor.png)
 
 ### [json-downloader](https://github.com/j2doll/json-downloader)
 - File Downloader for Windows Console(Terminal) using json download data.
@@ -87,7 +85,13 @@
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : Now some code not works. I suggest to use new QML sample of github.
 - [Benchmark performance of in-memory SQLITE on Qt](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) You can fork current project to you, then test your own hardware, OS and Qt etc.
 
+</p>
+</details>
+
 ## Commercial Projects
+
+<details><summary>CLICK ME</summary>
+<p>
 
 ### Defense Weapon System Project
 
@@ -107,8 +111,14 @@
 - Exif(picture data) Viewer : C++, ActiveX(COM), Visual Studio
 - PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
 
+</p>
+</details>
+
 ## Freeware
 > My freeware is mostly made to Korean. I am going to translate in English someday.
+
+<details><summary>CLICK ME</summary>
+<p>
 
 - ConverT : It converts the time UTC, Local time, Epoch. (Korean local time is KST that is GMT+9h.) [Download](https://j2doll.github.io/files/ConverT.7z)
 - TC-1 : It converts the time from seconds to date and time. [Download](https://j2doll.github.io/files/TC-1.zip)
@@ -118,6 +128,10 @@
 - TinyTimeSync : NTP(SNTP) client program for Windows. [Download](https://j2doll.github.io/files/TinyTimeSyncNT.zip)
 - litococlock : It's a clock program that is made in LittleWitch(Japan). Translate menu language to English. [Download](https://j2doll.github.io/files/litoco.zip)
 - URLDownload : Translate menu language to Korean. Code from [codeproject](http://www.codeproject.com/KB/IP/urldownload.aspx). [Download](https://j2doll.github.io/files/URLDownload.zip)
+
+</p>
+</details>
+
 
 ## Test code from books
 - See [gitlab](https://gitlab.com/users/j2doll/projects) repo.
