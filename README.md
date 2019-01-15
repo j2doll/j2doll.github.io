@@ -1,4 +1,4 @@
-# Welcome to github pages of j2doll (aka Jay two)
+# Welcome to github pages of j2doll
 
 > *Read this in other languages: [English](README.md), :kr: [한국어](README.ko.md)*
 
