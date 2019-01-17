@@ -86,11 +86,9 @@
 ### 국방 무기체계 프로젝트
 
 #### 전술 데이터링크 체계
-![](https://j2doll.github.io/image/tdl2.jpg)
 - Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
 
 #### 해군 상륙함 지휘지원체계
-![](https://j2doll.github.io/image/lpx.jpg)
 - Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
 
 ### 기타 프로젝트

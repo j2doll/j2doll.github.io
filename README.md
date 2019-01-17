@@ -87,11 +87,9 @@
 ### Defense Weapon System Project
 
 #### Tactical Data Link System
-![](image/tdl2.jpg)
 - Tactical Data Link Software : C++, Qt, Linux, Network(ethernet), Etc.
 
 #### Naval Landing Ship Command & Control Support System
-![](image/lpx.jpg)
 - Tatical Server : C++, Visual Studio, Network(ethernet), Serial(RS-232 etc), Etc.
 
 ### Other projects
