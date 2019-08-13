@@ -15,7 +15,8 @@
 ## 오픈소스 프로젝트 
 
 ### [QtExcel](https://github.com/QtExcel)
-- QtExcel는 Qt용 엑셀(xlsx) 라이브러리들의 모임입니다. 
+- QtExcel는 Qt용 엑셀(xlsx) 라이브러리들의 그룹입니다.
+- 저는 QtExcel의 관리자입니다.
 
 #### [QXlsx](https://github.com/QtExcel/QXlsx)
 - QXlsx는 엑셀 파일(*.xlsx)을 읽고 쓰는 라이브러리입니다.
