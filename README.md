@@ -18,6 +18,7 @@
 
 ### [QtExcel](https://github.com/QtExcel)
 - QtExcel is a organization of excel(xlsx) libraries in Qt.
+- I am the administrator of QtExcel.
 
 #### [QXlsx](https://github.com/QtExcel/QXlsx)
 - QXlsx is excel file(*.xlsx) reader/writer library.
