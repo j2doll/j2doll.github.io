@@ -8,10 +8,9 @@
 - I'm a software programmer of South Korea. (South Korea is Republic of Korea.)
 - I have been programming in various languages and environments for a long time.
 
-## Contact
+### Contact
+- :mailbox_with_mail:  Leave me a issue. [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
 - :octocat: [https://github.com/j2doll](https://github.com/j2doll)
-- :mailbox_with_mail:  [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
-- :page_with_curl: Blog(Korean) [https://j2doll.tistory.com](https://j2doll.tistory.com)
 - My native language is not English and my English is not fluent. Please, use easy English. :-)
 
 ## Open Source Projects
@@ -66,14 +65,17 @@
 - Copyright (C) 2015 Burkhard Stubert, Embedded Use (DBA), Germany All rights reserved.
 - The HMIs of in-vehicle infotainment systems, TVs, phones and many other systems must adapt to different screen resolutions and formats. This adaptation should happen with as little duplicate effort as possible. The simplest way of doing this for QML HMIs is to scale the values of all x, y, width, height, margin and border properties in proportion to a reference resolution. Based on the HMI of a music player, I’ll show you how to do this by changing only the screen width and height.
 
-## [crl.Qt](https://github.com/j2doll/crl.Qt)
+### [crl.Qt](https://github.com/j2doll/crl.Qt)
 - Concurrency Runtime Library for Telegram Desktop
 - This project uses Qt 5. (2018)
 
-## [jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
+### [jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
 - Set Qt project to [jcon](https://github.com/joncol/jcon-cpp) project
 	- JCON-CPP is a portable C++ JSON RPC 2.0 library that depends on Qt.
 - This project uses Qt 5. (2018)
+
+### [XMLDOMReader](https://github.com/j2doll/XMLDOMReader)
+- XML DOM reader for Qt5
 
 ### Lazy Projects
 - [test-ccspriterx](https://github.com/j2doll/test-ccspriterx) is test code for CCSpriterX & Brash Monkey Spriter SCML.
@@ -82,6 +84,7 @@
 - [CStdString](https://github.com/j2doll/CStdString) is a string class for Windows compiler(Visual C++, Borlan C++, etc.) gcc(g++) is not supported. Original source code is come from [codeproject.](https://www.codeproject.com/Articles/1146/CString-clone-Using-Standard-C) Now some code not works.
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : Now some code not works. I suggest to use new QML sample of github.
 - [Benchmark performance of in-memory SQLITE on Qt](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) You can fork current project to you, then test your own hardware, OS and Qt etc.
+- [test-pnarallax-node](https://github.com/j2doll/test-pnarallax-node)
 
 ## Commercial Projects
 
@@ -102,6 +105,7 @@
 - PDB(Protein DB) Viewer (It's prototype project.) : C++, Visual Studio, OpenGL
 
 ## Freeware
+
 > My freeware is mostly made to Korean. I am going to translate in English someday.
 
 - ConverT : It converts the time UTC, Local time, Epoch. (Korean local time is KST that is GMT+9h.) [Download](https://j2doll.github.io/files/ConverT.7z)
@@ -115,4 +119,5 @@
 
 
 ## Test code from books
+
 - See [gitlab](https://gitlab.com/users/j2doll/projects) repo.

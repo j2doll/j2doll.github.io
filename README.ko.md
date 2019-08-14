@@ -3,14 +3,13 @@
 > *Read this in other languages: [English](README.md), :kr: [한국어](README.ko.md)*
 
 ## Who am I?
-- 안녕하세요! 제 별칭은 j2doll 입니다. (Jay Two로 불러 주세요.)
+- 안녕하세요! 깃허브에서 제 별칭은 j2doll 입니다. (Jay Two로 불러 주세요.)
 - 대한민국의 소프트웨어 프로그래머입니다.
 - 다양한 언어와 환경에서 오랫동안 프로그래밍을 해왔습니다.
 
-## 연락처
+### 연락처
+- :mailbox_with_mail: 이슈를 남겨 주세요. [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
 - :octocat: [https://github.com/j2doll](https://github.com/j2doll)
-- :mailbox_with_mail:  [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
-- :page_with_curl: 블로그(Korean) [https://j2doll.tistory.com](https://j2doll.tistory.com)
 
 ## 오픈소스 프로젝트 
 
@@ -65,14 +64,17 @@
 - Burkhard Stubert 작성
 - 차량용 인포테인먼트 시스템, TV, 휴대폰 및 기타 여러 시스템의 HMI는 다양한 화면 해상도 및 형식에 적응해야 합니다. 이 적응은 최대한 적은 중복 노력으로 이루어져야 합니다. QML HMI에서이 작업을 수행하는 가장 간단한 방법은 참조 해상도에 비례하여 모든 x, y, width, height, margin 및 border 속성의 값을 크기 조정하는 것입니다. 음악 플레이어의 HMI를 기반으로, 화면 너비와 높이 만 변경하여이 작업을 수행하는 방법을 보여 드리겠습니다.
 
-## [crl.Qt](https://github.com/j2doll/crl.Qt)
+### [crl.Qt](https://github.com/j2doll/crl.Qt)
 - 텔레그램 데스크탑용 동시성 런타임 라이브러리
 - 이 프로젝트는 Qt 5를 사용합니다. (2018)
 
-## [jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
+### [jcon-cpp.Qt](https://github.com/j2doll/jcon-cpp.Qt)
 - [jcon](https://github.com/joncol/jcon-cpp) 프로젝트에 Qt 프로젝트 추가
 	- JCON-CPP는 C++ JSON RPC 2.0 라이브러리
 - 이 프로젝트는 Qt 5를 사용합니다. (2018)
+
+### [XMLDOMReader](https://github.com/j2doll/XMLDOMReader)
+- Qt5용 XML DOM reader
 
 ### 게으른 프로젝트
 - [test-ccspriterx](https://github.com/j2doll/test-ccspriterx)는 Brash Monkey Spriter SCML를 사용하는 CCSpriterX를 테스트하는 코드입니다.
@@ -81,8 +83,12 @@
 - [CStdString](https://github.com/j2doll/CStdString)는 윈도우즈 컴파일러를 지원하는 문자열 클래스입니다.(Visual C++, Borlan C++ 등) gcc(g++)는 지원하지 않습니다. 원본 소스코드는  [codeproject](https://www.codeproject.com/Articles/1146/CString-clone-Using-Standard-C)가 출처입니다. 현재 일부 코드는 작동되지 않는 부분도 있습니다.
 - [Box2D Lite](https://github.com/j2doll/qbox2dl) : 일부 코드가 작동되지 않음. 이 예제보다는 깃허브에 있는 QML 예제를 추전합니다.
 - [Qt에서 인-메모리 SQLITE의 성능 테스트](https://github.com/j2doll/benchmark-qt-sqlite-inmemory) 이 프로젝트를 포크하여 여러분의 하드웨어/OS에서 성능을 테스트하실 수 있습니다.
+- [test-pnarallax-node](https://github.com/j2doll/test-pnarallax-node)
+- [Wireshark로 내가 만든 프로토콜 분석하기](https://github.com/j2doll/wireshark-dissector-lua.kr) 토스트에서 제작한 테스트 코드 (wireshark + lua)
 
 ## 상업용 프로젝트
+- :closed_lock_with_key: 상업용 프로젝트의 소유권은 해당 기관에 있으므로 세부 내용은 공개할 수 없습니다.
+- :mailbox_with_mail: 기타 세부 문의가 필요하신 분은 연락 주십시오. [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
 
 ### 국방 무기체계 프로젝트
 
@@ -100,24 +106,23 @@
 - Exif(사진 자료) 뷰어 : C++, ActiveX(COM), Visual Studio
 - PDB(단백질 데이터베이스) 뷰어 (프로토타입 프로젝트) : C++, Visual Studio, OpenGL
 
-### 한글화 작업
-
-- 피쉬 쉘(Fish Shell) 문서 한글화 작업 (진행 중) [https://j2doll.github.io/fish-shell-docs-kor/](https://j2doll.github.io/fish-shell-docs-kor/)
-
-- 큐트 포 파이썬(Qt For Python) 문서 한글화 작업 (진행 중) [https://j2doll.github.io/Qt-for-Python-Docs-Kor/](https://j2doll.github.io/Qt-for-Python-Docs-Kor/)
-
+## 한글화 작업
+- :construction: 피쉬 쉘(Fish Shell) 문서 한글화 작업 [https://j2doll.github.io/fish-shell-docs-kor/](https://j2doll.github.io/fish-shell-docs-kor/)
+- 큐트 포 파이썬(Qt For Python) 문서 한글화 작업 [https://j2doll.github.io/Qt-for-Python-Docs-Kor/](https://j2doll.github.io/Qt-for-Python-Docs-Kor/)
 - QML 글 [https://j2doll.github.io/qml-article/](https://j2doll.github.io/qml-article/)
+- :construction: 무료 개발환경 (https://github.com/j2doll/free-for-dev.kr)[https://github.com/j2doll/free-for-dev.kr]
+- [Qt Android] Google Play의 향후 요구 사항을 준수하는 방법 (2019)  (https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr)[https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr]
 
-### 프리웨어
+
+## 프리웨어
 - ConverT : UTC, Local time, Epoch 간의 시간을 변경. (대한민국의 local time은 KST이며, GMT보다 +9h이 차이납니다.) [Download](https://j2doll.github.io/files/ConverT.7z)
 - TC-1 : 초에서 날자/시간으로 변경. [Download](https://j2doll.github.io/files/TC-1.zip)
 - DisplayVersionOnDesktop : 윈도의 상세 버전을 데스크탑에 표시. [Download](https://j2doll.github.io/files/DisplayVersionOnDesktop.zip)
-- ConvertU : 문자열을 UTF-8과 URl인코딩을 함께 적용하여 변환합니다. 아주 간단함! [Download](https://j2doll.github.io/files/ConvertU.zip)
+- ConvertU : 문자열을 UTF-8과 URL 인코딩을 함께 적용하여 변환합니다. 아주 간단함! [Download](https://j2doll.github.io/files/ConvertU.zip)
 - IEBNTracker : A program that allows you to preview and test how to work with the Web using Internet Explorer. 인터넷 탐색기의 BeforeNavigate 이벤트를 추적하는 프로그램. RL, PostData, Headers, TargerFrame 등을 보여줍니다. [Download](https://j2doll.github.io/files/IEBNTracker.zip)
 - TinyTimeSync : NTP(SNTP) 클라이언트 프로그램 (윈도우). [Download](https://j2doll.github.io/files/TinyTimeSyncNT.zip)
 - litococlock : LittleWitch(일본)사의 시계 프로그램입니다. 메뉴 영문화 작업을 수행하였음. [Download](https://j2doll.github.io/files/litoco.zip)
 - URLDownload : 메뉴 한글화 작업을 수행하였음. 코드는 [codeproject](http://www.codeproject.com/KB/IP/urldownload.aspx) [Download](https://j2doll.github.io/files/URLDownload.zip)
 
-### 서적의 테스트 코드
+## 서적의 테스트 코드
 - [gitlab](https://gitlab.com/users/j2doll/projects) 저장소를 보세요.
-
