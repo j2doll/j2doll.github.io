@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Jay Two's Pages"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "j2doll"
+name                     : "Jay Two"
 description              : "An website."
 url                      : https://j2doll.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
