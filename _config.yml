@@ -1,6 +1,10 @@
 # _config.yml
 
-theme : "Cayman"
+theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji
+  
 # remote_theme           : "j2doll/minimal-mistakes"
 # url                      : https://j2doll.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
