@@ -107,6 +107,8 @@
 - PDB(단백질 데이터베이스) 뷰어 (프로토타입 프로젝트) : C++, Visual Studio, OpenGL
 
 ## 한글화 작업
+- 저스트 닥스 한글화(작업중) [템플릿] [https://github.com/j2doll/just-the-docs.kr](https://github.com/j2doll/just-the-docs.kr)
+- (Unofficial Korean branch) 개발자 및 infradev에 무료 등급이 제공되는 SaaS, PaaS 및 IaaS 허용 목록 [https://github.com/j2doll/free-for-dev.kr](https://github.com/j2doll/free-for-dev.kr)
 - :construction: 피쉬 쉘(Fish Shell) 문서 한글화 작업 [https://j2doll.github.io/fish-shell-docs-kor/](https://j2doll.github.io/fish-shell-docs-kor/)
 - 큐트 포 파이썬(Qt For Python) 문서 한글화 작업 [https://j2doll.github.io/Qt-for-Python-Docs-Kor/](https://j2doll.github.io/Qt-for-Python-Docs-Kor/)
 - QML 글 [https://j2doll.github.io/qml-article/](https://j2doll.github.io/qml-article/)
@@ -115,6 +117,7 @@
 
 
 ## 프리웨어
+- XlsxFactory : 엑셀(*.xlsx) 뷰어 [https://j2doll.tistory.com/654](https://j2doll.tistory.com/654)
 - ConverT : UTC, Local time, Epoch 간의 시간을 변경. (대한민국의 local time은 KST이며, GMT보다 +9h이 차이납니다.) [Download](https://j2doll.github.io/files/ConverT.7z)
 - TC-1 : 초에서 날자/시간으로 변경. [Download](https://j2doll.github.io/files/TC-1.zip)
 - DisplayVersionOnDesktop : 윈도의 상세 버전을 데스크탑에 표시. [Download](https://j2doll.github.io/files/DisplayVersionOnDesktop.zip)
