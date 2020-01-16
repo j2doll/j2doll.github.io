@@ -9,6 +9,7 @@
 
 ### 연락처
 - :mailbox_with_mail: 이슈를 남겨 주세요. [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
+- 한글 블로그 : [https://j2doll.tistory.com](https://j2doll.tistory.com)
 - :octocat: [https://github.com/j2doll](https://github.com/j2doll)
 
 ## 오픈소스 프로젝트 
@@ -112,8 +113,8 @@
 - :construction: 피쉬 쉘(Fish Shell) 문서 한글화 작업 [https://j2doll.github.io/fish-shell-docs-kor/](https://j2doll.github.io/fish-shell-docs-kor/)
 - 큐트 포 파이썬(Qt For Python) 문서 한글화 작업 [https://j2doll.github.io/Qt-for-Python-Docs-Kor/](https://j2doll.github.io/Qt-for-Python-Docs-Kor/)
 - QML 글 [https://j2doll.github.io/qml-article/](https://j2doll.github.io/qml-article/)
-- :construction: 무료 개발환경 (https://github.com/j2doll/free-for-dev.kr)[https://github.com/j2doll/free-for-dev.kr]
-- [Qt Android] Google Play의 향후 요구 사항을 준수하는 방법 (2019)  (https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr)[https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr]
+- :construction: 무료 개발환경 [https://github.com/j2doll/free-for-dev.kr](https://github.com/j2doll/free-for-dev.kr)
+- [Qt Android] Google Play의 향후 요구 사항을 준수하는 방법 (2019)  [https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr](https://github.com/j2doll/comply-upcoming-requirements-google-play-2019-kr)
 
 
 ## 프리웨어
