@@ -2,11 +2,11 @@
 
 > *Read this in other languages: [English](README.md), :kr: [한국어](README.ko.md)*
 
-- [Who am I?](https://j2doll.github.io/who-am-i/)
+- [Who am I?](https://j2doll.github.io/who-am-i/index.ko.html)
 
-- [오픈 소스 프로젝트](https://j2doll.github.io/open-source-projects/)
+- [오픈 소스 프로젝트](https://j2doll.github.io/open-source-projects/index.ko.html)
 
-- [상업용 프로젝트](https://j2doll.github.io/commercial-projects/)
+- [상업용 프로젝트](https://j2doll.github.io/commercial-projects/index.ko.html)
 
 
 
