@@ -1,6 +1,6 @@
 # Welcome to github pages of j2doll
 
-> *Read this in other languages: [English](English-page), :kr: [한국어](Korean-page)*
+> *Read this in other languages: [English](#English-page), :kr: [한국어](#Korean-page)*
 
 ## English page
 
