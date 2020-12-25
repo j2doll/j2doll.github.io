@@ -147,7 +147,19 @@
 - C++, Visual Studio, OpenGL
 
 
+<!-- ****************** -->
+### 연락처
 
+- :mailbox: 깃허브에 이슈를 남겨 주세요. https://github.com/j2doll/discussion/issues
+  - 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 
 
+- 💬 블로그에 방명록을 남겨 주세요. 공개하기 싫은 글은 비밀댓글로 남겨 주세요. https://j2doll.tistory.com/guestbook
 
+- 💬 한국어 Qt 포럼에서 만나요! https://forum.qt.io/category/59/korean
+
+<!-- ****************** -->
+### 후원
+- 저는 현재 상업적인 프로젝트로 수입을 얻고 있습니다. 제가 오픈소스 프로젝트에 좀더 신경을 쓸 수 있도록, 당신의 후원을 부탁드릴께요.
+  - https://www.buymeacoffee.com/Yukrf5X
+  - https://www.patreon.com/j2doll
 

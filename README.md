@@ -149,3 +149,13 @@
 
 <!-- ******************** -->
 
+### Contact
+
+- :mailbox: Leave me a issue on GitHub. https://github.com/j2doll/discussion/issues
+  - I can not speak English well. Please speak very, very easy English.
+  - Please write the issues for public projects in the public project issues. 
+
+### Sponsor
+- I am currently earning income for a commercial project. I'm looking forward to your patronage so that I can be more concerned with open source projects.
+  - https://www.buymeacoffee.com/Yukrf5X
+  - https://www.patreon.com/j2doll
